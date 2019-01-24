@@ -38,3 +38,5 @@ album3 = Album.new({
 
 binding.pry
 nil
+
+#found_artist = Artist.find(album1.artist.id)
